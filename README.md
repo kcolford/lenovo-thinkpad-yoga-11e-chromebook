@@ -20,5 +20,10 @@ Things Fixed
 Sources
 -------
 
+I make no claim to any of the materials herein.  Since a license could
+not be found for the original materials you can easily rebuild what I
+have here useing the folling links.  This repository is only for ease
+of distribution.
+
 - https://chromium.googlesource.com/chromiumos/overlays/board-overlays/+/master/overlay-glimmer
 - http://www.spinics.net/lists/linux-input/msg44113.html
