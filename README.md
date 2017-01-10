@@ -27,3 +27,4 @@ of distribution.
 
 - https://chromium.googlesource.com/chromiumos/overlays/board-overlays/+/master/overlay-glimmer
 - http://www.spinics.net/lists/linux-input/msg44113.html
+- https://chromium.googlesource.com/chromiumos/third_party/adhd/+/master/ucm-config/glimmer/byt-max98090
